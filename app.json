@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "ToDoListApp",
+    "name": "main",
+    "displayName": "ToDoListApp",
     "slug": "ToDoListApp",
     "version": "1.0.0",
     "orientation": "portrait",
