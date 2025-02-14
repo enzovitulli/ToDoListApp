@@ -1,5 +1,8 @@
-import { AppRegistry } from 'react-native';
+import React from 'react';
 import MainScreen from './src/screens/main';
-import { name as appName } from './app.json';
 
-AppRegistry.registerComponent(appName, () => MainScreen);
+const App = () => {
+  return <MainScreen />;
+};
+
+export default App;
